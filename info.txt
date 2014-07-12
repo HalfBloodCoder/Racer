@@ -1,0 +1,18 @@
+"Gamemode"
+{
+	"name"		"GMod Racer"
+	"version"	"1.0"
+
+	"author_name"	"HuntsKikBut"
+	"author_email"	"HuntsKikBut@gMail.Com	"
+	"author_url"	"Not Available"
+	
+	"icon"		""
+	"info"		""
+	"hide"		""
+	
+	"mappattern"
+	{
+		"1"	"^gmr_"
+	}
+}

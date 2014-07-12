@@ -1,0 +1,15 @@
+"Gamemode"
+{
+	"title"		"Garrysmod Racer"
+	"version"	"1.0"
+	"Maps"		"^race_|^gmr_"
+
+	"author_name"	""
+	"author_email"	""
+	"author_url"	"Not Available"
+	
+	"icon"		""
+	"info"		""
+	"hide"		""
+	
+}
